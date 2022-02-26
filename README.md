@@ -1,3 +1,3 @@
 # Matlab Image Encryption Project
 
-Matlab scripts for encrypting and decrypting images (/messages) within images.
+Matlab scripts for encrypting and decrypting binary colour (black/white) text messages within images.
